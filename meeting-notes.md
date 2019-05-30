@@ -32,6 +32,7 @@ before next meeting:
 Next meeting:
 
 - Agenda:
+ 
  -- check how the building of the first prototype is going, see if there are any problems.
  -- If things are already working properly, think about testing/calibrating and writing a manual for other people to build.
  
