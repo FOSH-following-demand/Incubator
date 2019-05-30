@@ -27,12 +27,13 @@ Questions:
  
  
 before next meeting:
+ 
  - Write down a BOM and Document! https://github.com/FOSH-following-demand/Incubator/blob/master/hardware/BOM/BOM.md
 
 Next meeting:
 
-- Agenda:
+- Agenda:  
  
- -- check how the building of the first prototype is going, see if there are any problems.
- -- If things are already working properly, think about testing/calibrating and writing a manual for other people to build.
+ -- check how the building of the first prototype is going, see if there are any problems.   
+ -- If things are already working properly, think about testing/calibrating and writing a manual for other people to build.  
  
