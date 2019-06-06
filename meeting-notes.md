@@ -1,14 +1,20 @@
-## May 23, 2019
+## June 6, 2019
 
-Status quo on the project:
+Note taker: Julieta
 
-Questions: What material to use for the frame - wood, metal, which metal - should be low-cost and durable.
-Options: impregnated wood or insulated with styrophome
+1- Updates on development of the prototype     
+- Tested how long the chamber can keep hot water -- document this test! Maybe a journal can help, so documentation is not done at the end of the project (it's a pain and we tend to document only success)
+- Started coding with Arduino IDE based on Biohack Academy's code combined with Richard Boman's incubator (biomakers challenge)
+- Still working on the code, will upload 1st version soon
 
-Local suppliers in Yaoundé - add to this list: https://github.com/FOSH-following-demand/local_suppliers/blob/master/electronic_components.csv
+2- Program schedule, week 3: BoM, dev plan     
+- Materials: goal is to get everything locally. Got sensors in mboa lab, but trying to source them locally (in progress). 
+- Get BoM & simple dev plan, will 
 
-Next local meeting Friday, May 24
-- Agenda items: 
+3- Difficulties      
+- Still learning github - Julieta will record & send video tutorial 
+
+Next call: June 13th
 
 ## May 30, 2019
 
@@ -37,3 +43,14 @@ Next meeting:
  -- check how the building of the first prototype is going, see if there are any problems.   
  -- If things are already working properly, think about testing/calibrating and writing a manual for other people to build.  
  
+## May 23, 2019
+
+Status quo on the project:
+
+Questions: What material to use for the frame - wood, metal, which metal - should be low-cost and durable.
+Options: impregnated wood or insulated with styrophome
+
+Local suppliers in Yaoundé - add to this list: https://github.com/FOSH-following-demand/local_suppliers/blob/master/electronic_components.csv
+
+Next local meeting Friday, May 24
+- Agenda items: 
