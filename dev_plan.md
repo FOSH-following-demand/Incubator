@@ -4,10 +4,10 @@ Use this file to store your plan for the program. What are you going to do, in w
 
 | Week        | Activities           | Who           |
 | ----------- | -------------------- | ------------- |
-| 1           |                      |               |
-| 2           |                      |               |
-| 3           |                      |               |
-| 4           |                      |               |
+| 1           |choose materials                      | Julieta              |
+| 2           |perform testing of prototype                      |               |
+| 3           |etc                       |               |
+| 4           |etc                      |               |
 | 5           |                      |               |
 | 6           |                      |               |
 | 7           |                      |               |
