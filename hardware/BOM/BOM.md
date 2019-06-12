@@ -1,26 +1,22 @@
-####- Electronic_BOM.csv
+#### - Electronics
+| N° | Amount | Description     | Local supplier   | Cost (F CFA) |
+|----|--------|-----------------|------------------|--------------|
+| 1  | 1      | Arduino Uno     | DBL Electronique (https://maps.app.goo.gl/5ZiqXomu7RbgKoKo7| 7000         |
+| 2  | 1      | 1602 Display    | DBL Electronique | 3000         |
+| 3  | 1      | I2C             | DBL Electronique | 1500         |
+| 4  | 1      | Relay           | DBL Electronique | 1000         |
+| 5  | 1      | Temp 18B20      | DBL Electronique | 3500         |
+| 6  | 1      | USB cable       | DBL Electronique | 1000         |
+| 7  | 10     | Jumper Wire     | DBL Electronique | 500          |
+| 8  | 10     | Dupont Wire     | DBL Electronique | 500          |
+| 9  | 1      | Potentiometer   | DBL Electronique | 250          |
+| 10 | 1      | Peltier element | DBL Electronique | 4000         |
+| 11 | 1      | Breadboard      | DBL Electronique | 1500         |
+
+#### - Mechanical
 
 
-
-<br>
-
-- Mechanical_BOM.csv: Table containing all the mechanical parts necessary to build the equipment. Include here screws, printed parts, tubes, etc. See example below for fields
-
-<br>
-
-|part name| function  | quantity  |  obs.  |supplier|supplier number|link|
-|---|---|---|---|---|---|---|
-|M6x1 hex screws | used for holding motor in place  | 5  |  these could be substituted by flathead screws  |digikey| RPC6208-ND |https://www.digikey.co.uk/product-detail/en/essentra-components/SHSM6L16A/RPC6208-ND/9343049 |
-
-<br>
-
-- Tools_BOM.csv: table containing all tools used for the build. Pliers, hammer, etc.
-
-<br>
-
-|part name| function  | quantity  |  obs.  |supplier|supplier number|link|
-|---|---|---|---|---|---|---|
-|Nose needle Pliers  | hold components while soldering  | 1  |    regular pliers would also work   |digikey|L4VN-ND  |https://www.digikey.co.uk/product-detail/en/apex-tool-group/L4VN/L4VN-ND/8021129 |
+#### - Tools
 
 
 
