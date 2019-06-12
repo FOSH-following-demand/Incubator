@@ -3,6 +3,7 @@ We have made a list of similar DIY incubator projects. In addition to this, Andr
 
 #### Week 2
 We did a reseach on What material to use for the frame (wood, metal, which metal - should be low-cost and durable). Finally we come out with this comparative table and we decide to use the cooler box. 
+
 | Type of Material used for Incubator Shell/Insulation material | Pros                                                                                                                      | Cons                                                                                                                                                          | Optimisation                     |
 |---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
 | Acrylic                                                       | ·      Attractive visibly                                                                                                 | Expensive                                                                                                                                                     | N/A                              |
