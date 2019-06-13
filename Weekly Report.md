@@ -35,8 +35,8 @@ We did a reseach on What material to use for the frame (wood, metal, which metal
 
 #### Week 3
 The team was so glad to found local suppliers selling all what we need here in Cameroon: DBL electronics and Megatec
+
 | Name of the local suppliers  | Localisation on google map                | Contact                                                                                                                   |
 |------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | DBL electronique             | https://maps.app.goo.gl/5ZiqXomu7RbgKoKo7 |  - Yaoundé (+237698282538/+237673687133) - Douala (+237699675349/+237678830266) - Bafoussam (+237668095091/+237605076456) |
-| Megatec Electronic           | https://maps.app.goo.gl/c4DdAgbu1jX4qPhZ9 | +237677524208                                                                                                                                                                                                                                   |
-
+| Megatec Electronic           | https://maps.app.goo.gl/c4DdAgbu1jX4qPhZ9 | +237677524208                                                                                                             |
