@@ -1,3 +1,5 @@
+Brief summary of the progress made, learnings, and way forward in keywords by week
+
 #### Week1
 We have made a list of similar DIY incubator projects. In addition to this, Andre sent us several links to other incubator projects.  
 
@@ -40,3 +42,13 @@ The team was so glad to found local suppliers selling all what we need here in C
 |------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | DBL electronique             | https://maps.app.goo.gl/5ZiqXomu7RbgKoKo7 |  - Yaoundé (+237698282538/+237673687133) - Douala (+237699675349/+237678830266) - Bafoussam (+237668095091/+237605076456) |
 | Megatec Electronic           | https://maps.app.goo.gl/c4DdAgbu1jX4qPhZ9 | +237677524208                                                                                                             |
+
+#### Week4
+This week was so productive, we focus our efforts on electronics: 
+- First of all, we decided on what we want our incubator will be able to do. Specifically, we want to be able to fixe the desired temperature with a potentiometer and bring the incubator at this temperature.  
+- We had an issue on the cooling system of the incubator. Fan VS Peltier elements. Finally we choose the Peltier element
+- We bought the required electronics
+- Ariel from Ongola Fablab, helps us with the Arduino code and all looks great
+
+
+
