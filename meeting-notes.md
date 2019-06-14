@@ -8,9 +8,12 @@ Note taker: Julieta
 
 2- Document for the user
 - BoM ready with $ (check hw folder BoM)
+- Send information for contributing to map of suppliers --> Possible output of BFOSH: map with suppliers
 
 3- Next
-User documentation, lessons learned, software needed for building, any specifics? 
+- Let's complete the docs: hw/datasheets, software: the code, readme file: steps to build it, steps to use it, any lesson learned, specifics people need to know to replicate the incubator??
+- Test incubator by making yoghurt!
+
 
 Next call: June 20th
 
