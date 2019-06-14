@@ -1,3 +1,20 @@
+## June 14, 2019
+
+Note taker: Julieta
+
+1- Updates on development of the prototype     
+- Assembled 1st version of incubator and it works!
+- You can actually choose temperature :D
+
+2- Document for the user
+- BoM ready with $ (check hw folder BoM)
+
+3- Next
+User documentation, lessons learned, software needed for building, any specifics? 
+
+Next call: June 20th
+
+
 ## June 6, 2019
 
 Note taker: Julieta
