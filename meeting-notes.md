@@ -1,3 +1,17 @@
+## June 20, 2019
+
+Note taker: Julieta
+
+- Incubator is working well, will test with yoghurt making tomorrow.
+- Will complete info on local suppliers this week, with the link Andre provided
+- Will upload arduino code and the laser cut patterns to the repo
+
+The team wants to try making the shaker, as it's very easy and they have the materials, will take one or two days.
+
+In terms of usability and democratization, next step is producing a "KossamTor" - An incubator for Kossam (yoghurt), that will be installed in the village for people to produce yoghurt. Presentation will be 3rd july, during MboaLab opendoors day. For this, the team will make a video and short instructions, for people that don't use GitHub (most of them).
+
+Will try to buy stuff asap so to send Andre the invoices before 24th.
+
 ## June 14, 2019
 
 Note taker: Julieta
