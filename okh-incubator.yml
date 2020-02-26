@@ -114,7 +114,7 @@ license:                                   # At least one license is required | 
 
 # Documentation
 
-documentation-home: https://github.com/FOSH-following-demand/Syringe_Pump   # At least one of the project-link or documentation-home fields is required | absolute path
+documentation-home: https://github.com/FOSH-following-demand/Incubator   # At least one of the project-link or documentation-home fields is required | absolute path
 
 #archive-download: [value]                 # Absolute or relative path
 
