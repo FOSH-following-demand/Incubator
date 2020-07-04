@@ -9,11 +9,13 @@
 | 6  | 1      | USB cable A to B            | DBL Electronique | 1000         |           |
 | 7  | 10     | Jumper Wires (Male to Male) | DBL Electronique | 500          |           |
 | 8  | 10     | Dupont Wire                 | DBL Electronique | 500          |           |
-| 9  | 1      | Potentiometer               | DBL Electronique | 250          |           |
+| 9  | 1      | Potentiometer (sliding or rotary)               | DBL Electronique | 250          |           |
 | 10 | 1      | Breadboard                  | DBL Electronique | 1500         |           |
-| 11 | 1      | Incandescent bulb           | Hardware store   |500           |           |
+| 11 | 1      | Incandescent bulb (75W)*          | Hardware store   |500           |           |
 | 12 | 1      | Light Bulb Holders          | Hardware stores  |250           |           |
 | 13 | 1      | Cooler box                  | Local Markets    | 25 000       |           |
+
+* The lightbulb could be replaced with another heater e.g. a PCB heater element or a Peltier element
 
 #### - Mechanical
 - Laser Cutter 
