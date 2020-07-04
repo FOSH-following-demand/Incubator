@@ -1,7 +1,7 @@
 #### - Electronics and Hardware
 | N° | Amount | Description                 | Local supplier   | Cost (F CFA) | Datasheet |
 |----|--------|-----------------            |------------------|--------------|--------------|
-| 1  | 1      | Arduino Uno                 | DBL Electronique (https://maps.app.goo.gl/5ZiqXomu7RbgKoKo7)| 7000         | [Datasheet](https://github.com/FOSH-following-demand/Incubator/blob/master/hardware/datasheets/Arduino_Uno.pdf) |
+| 1  | 1      | Arduino Uno                 | [DBL Electronique](https://maps.app.goo.gl/5ZiqXomu7RbgKoKo7)| 7000         | [Datasheet](https://github.com/FOSH-following-demand/Incubator/blob/master/hardware/datasheets/Arduino_Uno.pdf) |
 | 2  | 1      | 1602 LCD Display Module     | DBL Electronique | 3000         | [Datasheet](https://github.com/FOSH-following-demand/Incubator/blob/master/hardware/datasheets/1602A.pdf)|
 | 3  | 1      | I2C                         | DBL Electronique | 1500         |           |
 | 4  | 1      | Relay                       | DBL Electronique | 1000         |           |
