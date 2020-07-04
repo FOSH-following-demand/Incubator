@@ -6,8 +6,9 @@ All resources are openly licensed and linked below. Future plans include the inc
 
 # Build you own incubator
 
- - If you would like to build the device, get started in the [ADD LINK HERE]
- - If you have questions or suggestions for improvements, please add an issue or make a pull request.
+ - If you would like to build the device, get started by following the [build documentation](https://github.com/FOSH-following-demand/Incubator/tree/master/documentation/building)
+ - The folders in this repository contain details of the [materials needed](https://github.com/FOSH-following-demand/Incubator/tree/master/hardware/BOM), laser cut design for the enclosure, the Arduino-based [electronics design](https://github.com/FOSH-following-demand/Incubator/tree/master/hardware/electronics) and firmware.
+ - If you have questions or suggestions for improvements, please [add an issue](https://github.com/FOSH-following-demand/Incubator/issues) or make a pull request.
 
 # Related Links
 
@@ -19,7 +20,8 @@ All resources are openly licensed and linked below. Future plans include the inc
 -   Ongola FabLab and OER Cameroon Team: Ariel Kameni and Yves Obame
 -   Kumasi Hive Makerspace Team: Evans Tetteh-Djangbah and Isaac Atia-Abugbilla 
 -   Image credits for Incubator: MboaLab Team
--   GFP E.coli image in header: DanceWithNyanko on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Transformed_E.coli_using_green_fluorescent_protein_2.jpg). Licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 # Licensing
+
+This hardware is licensed under [INSERT LICENSE HERE]
 
