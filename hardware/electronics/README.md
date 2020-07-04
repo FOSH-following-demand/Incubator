@@ -1,2 +1,4 @@
-#### add information about the off the shelf components used in the project.
+## Electronics Diagram
+
+![Arduino diagram](https://github.com/FOSH-following-demand/Incubator/blob/master/hardware/electronics/incubator_bb.jpg)
   
