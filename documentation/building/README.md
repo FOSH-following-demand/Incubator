@@ -5,9 +5,9 @@
 
 <br>
 
-2. List of materials needed:
- - In the form of a table, containing part name, quantity and a couple of words on what they do. Extra points if the parts are divided according to the building steps (below)
- - Remember to include the tools necessary as well! (pliers, saw, computer, etc)  
+## Gathering your materials
+
+The list of components can be found in the [Bill of Materials](https://github.com/FOSH-following-demand/Incubator/blob/master/hardware/BOM/BOM.md). You will also need a soldering iron. 
 
 
  |part name| function  | quantity  | build step  | obs.  |
@@ -24,6 +24,8 @@
 
 <br>
 
-4. Last checks before powering up/using for the first time:
- - Could people do one more check of everything before powering up things? Maybe double check that the capacitors were soldered in the proper orientation? Make sure there are no cut metal parts shorting the bottom side of the PCB? Make sure the area around the equipment is clear and won't be hit if the equipment has moving parts (eg shakers, centrifuges, etc).
- 
+## Last checks before powering up/using for the first time:
+
+ - Double check that parts have been soldered in the proper orientation.
+ - Use a separate thermometer to verify that the temperature is reaching the correct point and is maintained.
+
