@@ -1,10 +1,5 @@
+## Getting started with assembly
 
-**Use this folder to create files for building instructions:**
-- Each equipment is going to have a different building process, but here are some suggestions on how to organise things:
-
-<br>
-
-1. getting started:
  - a brief overview of the equipment people are about to build and what kind of knowledge they are expected to have (soldering, programming). Also, is this safe for amateurs/kids? Is it a one person build? How much time does it take on average to build it?
  - Could you add contact information (email, forum, twitter handle) for people to reach out in case something goes wrong?
 
