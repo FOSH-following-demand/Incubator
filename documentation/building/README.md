@@ -1,31 +1,31 @@
 ## Getting started with assembly
 
- - a brief overview of the equipment people are about to build and what kind of knowledge they are expected to have (soldering, programming). Also, is this safe for amateurs/kids? Is it a one person build? How much time does it take on average to build it?
- - Could you add contact information (email, forum, twitter handle) for people to reach out in case something goes wrong?
+This equipment is an incubator, designed to keep the contents at a constant temperature above the ambient temperature. It is an insulated box (a cooler box) that contains a heater (lightbulb), a temperature sensor and some electronics and software that will control the temperature to keep it constant at the level input by the user.
+
+The primary use case is microbiology. It is essential for many protocols to have optimal growth temperature for important microrganisms such as _Escherichia coli_ bacteria. However, mst biology labs in Cameroon and elsewhere in resource-constrained contexts are under-equipped due to the high cost of lab equipment. Other use cases include a drying chamber and a yoghurt maker.
+
+To build the device you will need to undertake some basic soldering and load software onto an Arduino Uno microcontroller but you do not need to have prior experience as there are many tutorials and guides online. This build could be completed by one person in less than a day with all materials and facilities available.
+
+If you have questions you can contact [@LabMboa](https://twitter.com/labmboa?lang=en) on Twitter or [INSERT EMAIL]
 
 <br>
 
 ## Gathering your materials
 
-The list of components can be found in the [Bill of Materials](https://github.com/FOSH-following-demand/Incubator/blob/master/hardware/BOM/BOM.md). You will also need a soldering iron. 
-
-
- |part name| function  | quantity  | build step  | obs.  |
- |---|---|---|---|---|
- |LM2596| voltage regulator  | 2  | 3  | these could be substituted by XX  |
- | Nose needle Pliers  | hold components while soldering  | 1  | all steps  | regular pliers would also work  |
+The list of components and tools required can be found in the [Bill of Materials](https://github.com/FOSH-following-demand/Incubator/blob/master/hardware/BOM/BOM.md). 
 
 <br>
 
 
-3. build steps:
- - Divide this section in as many subparts as you like and try to be as clear as possible. Would someone seeing the whole thing for the first time be able to build it? (it is a good exercise to oversee someone building the equipment using only your written/video/figure instructions)
- - Is a video a better way to instruct people how to use it? try to keep the file size as small as possible without compromising quality. Also reach out to us, as a good idea might be to create a different repository for the video files.  
+## Build Steps
 
-<br>
+### Assembling the electronics
 
-## Last checks before powering up/using for the first time:
+### Constructing the electronics enclosure
 
- - Double check that parts have been soldered in the proper orientation.
+### Integrating the electronics with the cooler box
+
+### Checking that it works
+
  - Use a separate thermometer to verify that the temperature is reaching the correct point and is maintained.
 
