@@ -10,6 +10,8 @@ We believe that DIY and Open Science Hardware can facilitate access to low-cost 
 
 All resources are openly licensed and linked below. Future plans include the inclusion of orbital shaking which increases aeration of cultures and therefore the yield of micro-organisms and their products like proteins.
 
+![closed incubator frontview](https://github.com/FOSH-following-demand/Incubator/blob/master/documentation/images/closed_incubator_frontview.jpg)
+
 # Build you own incubator
 
  - If you would like to build the device, get started by following the [build documentation](https://github.com/FOSH-following-demand/Incubator/tree/master/documentation/building)
