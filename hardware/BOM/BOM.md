@@ -15,6 +15,7 @@
 | 12 | 1      | Light Bulb Holders          | Hardware stores  |250           |           |
 | 13 | 1      | Cooler box                  | Local Markets    | 25 000       |           |
 | 14 | 1      | 4 mm laser plywood or acrylic                 | Local Markets    |        |           |
+| 15 | 1      | ON/Off Red LED Light illuminated Rocker Switch | DBL Electronique| 600  |            |
 
 * The lightbulb could be replaced with another heater e.g. a PCB heater element or a Peltier element
 
