@@ -1,4 +1,4 @@
-#### - Electronics and Hardware
+## Electronics and Hardware
 | N° | Amount | Description                 | Local supplier   | Cost (F CFA) | Datasheet |
 |----|--------|-----------------            |------------------|--------------|--------------|
 | 1  | 1      | Arduino Uno                 | [DBL Electronique](https://maps.app.goo.gl/5ZiqXomu7RbgKoKo7)| 7000         | [Datasheet](https://github.com/FOSH-following-demand/Incubator/blob/master/hardware/datasheets/Arduino_Uno.pdf) |
@@ -17,11 +17,11 @@
 
 * The lightbulb could be replaced with another heater e.g. a PCB heater element or a Peltier element
 
-#### - Mechanical
+## Mechanical
 - Laser Cutter 
 - Electric drill
 
-#### - Tools
+## Tools
 - Soldering kit
 - Double-sided tape
 - Digital multimeter
