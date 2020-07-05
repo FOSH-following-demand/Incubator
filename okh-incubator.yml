@@ -41,8 +41,10 @@ title: Incubator                # required | text | A title to identify the thin
 description: |                             # required | paragraph
   We built an open source Incubator for biology lab in Cameroon; since most of them are under-equipped due to the high cost of lab equipment. We believe that DIY and Open Science Hardware, can facilitate access to low-cost and high-quality equipment for biology labs in Cameroon and Africa. We are a team of 4 people, based in Yaoundé, Cameroon.
 
-#intended-use: |                            # recommended | Paragraph
-#  [value]
+intended-use: |                            # recommended | Paragraph
+This equipment is an incubator, designed to keep the contents at a constant temperature above the ambient temperature. It is an insulated box (a cooler box) that contains a heater (lightbulb), a temperature sensor and some electronics and software that will control the temperature to keep it constant at the level input by the user.
+
+The primary use case is microbiology. It is essential for many protocols to have optimal growth temperature for important microrganisms such as Escherichia coli bacteria. However, mst biology labs in Cameroon and elsewhere in resource-constrained contexts are under-equipped due to the high cost of lab equipment. Other use cases include a drying chamber and a yoghurt maker.
 
 keywords:                                  # At least one keyword is recommended | text array
   - microbiology
@@ -63,18 +65,31 @@ project-link: https://github.com/FOSH-following-demand/Incubator   # At least pr
 
 contributors:                              # recommended
   - name: Thomas Hervé Mboa              # text
-#    affiliation: [value]                   # text
+    affiliation: MboaLab                   # text
     email: thomasmboa@gmail.com   # email address
+  - name: Stephane Fandanka             # text
+    affiliation: MboaLab                   # text
+  - name: Ariel Kameni           # text
+    affiliation: Ongola FabLab                   # text
+  - name: Yves Obame            # text
+    affiliation: Ongola FabLab                  # text
+  - name: Evans Tetteh-Djangbah           # text
+    affiliation: Kumasi Hive                   # text
+  - name: Isaac Atia-Abugbilla          # text
+    affiliation: Kumasi Hive                  # text
+  - name: Harry Akligoh          # text
+    affiliation: Kumasi Hive                  # text
+
 
 #image: [value]                             # recommended | absolute or relative path
 
-#version: [value]                           # text
+version: 1.0                         # text
 
-#development-stage: [value]                 # text
+development-stage: prototype                 # text
 
 made: true                                 # boolean - true or false
 
-#made-independently: [true/false]           # boolean - true or false
+made-independently: true           # boolean - true or false
 
 #standards-used:
 #  - standard-title: [value]                # Required where used | Title of the standard used in developing the design or documentation
@@ -107,10 +122,10 @@ license:                                   # At least one license is required | 
   documentation: GNU GPL v3.0                       # recommended | The license under which the documentation is released
   #software: [value]                        # recommended where software is used | The license under which the software is released
 
-#licensor:
-#  name: [value]                            # text
-#  affiliation: [value]                     # text
-#  email: [value]                           # email address
+licensor:
+name: Thomas Mboa                            # text
+affiliation: MboaLab                     # text
+email: thomasmboa@gmail.com                           # email address
 
 # Documentation
 
@@ -118,20 +133,20 @@ documentation-home: https://github.com/FOSH-following-demand/Incubator   # At le
 
 #archive-download: [value]                 # Absolute or relative path
 
-#design-files:                             # recommended
-#  - path: [value]                         # Absolute or relative path
+design-files:                             # recommended
+  - path: https://github.com/FOSH-following-demand/Incubator/tree/master/hardware                        # Absolute or relative path
 #    title: [value]                        # text
 
 #schematics:                               # recommended where applicable
 #  - path: [value]                         # Absolute or relative path
 #    title: [value]                        # text
 
-#bom: [value]                              # recommended | absolute or relative path | Direct the maker to the Bill of Materials
+bom: https://github.com/FOSH-following-demand/Incubator/blob/master/hardware/BOM/BOM.md                            # recommended | absolute or relative path | Direct the maker to the Bill of Materials
 
-#tool-list: [value]                        # recommended | absolute or relative path | Direct the maker to a list of tools required to make the thing
+tool-list: https://github.com/FOSH-following-demand/Incubator/blob/master/hardware/BOM/BOM.md#--tools                        # recommended | absolute or relative path | Direct the maker to a list of tools required to make the thing
 
-#making-instructions:                      # recommended
-#  - path: [value]                         # Absolute or relative path
+making-instructions:                      # recommended
+#  - path: https://github.com/FOSH-following-demand/Incubator/tree/master/documentation/building                       # Absolute or relative path
 #    title: [value]                        # text
 
 #manufacturing-files:                      # recommended where applicable
@@ -162,8 +177,8 @@ documentation-home: https://github.com/FOSH-following-demand/Incubator   # At le
 #  - path: [value]                         # Absolute or relative path
 #    title: [value]                        # text
 
-#software:                                 # recommended where applicable | Source code or executable software that the thing uses
-#  - path: [value]                         # Absolute or relative path
+software:                                 # recommended where applicable | Source code or executable software that the thing uses
+  - path: https://github.com/FOSH-following-demand/Incubator/blob/master/software/Incubator.ino                         # Absolute or relative path
 #    title: [value]                        # text
 
 # User defined Fields
