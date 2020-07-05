@@ -8,6 +8,7 @@ To build the device you will need to undertake some basic soldering and load sof
 
 If you have questions you can contact [@LabMboa](https://twitter.com/labmboa?lang=en) on Twitter or [INSERT EMAIL]
 
+<img src="https://github.com/FOSH-following-demand/Incubator/blob/master/documentation/images/electronics_enclosure.jpg" width="33%"/> <img src="https://github.com/FOSH-following-demand/Incubator/blob/master/documentation/images/incubator_team.jpg" width="33%"/> <img src="https://github.com/FOSH-following-demand/Incubator/blob/master/documentation/images/closed_incubator_frontview.jpg" width="33%"/> 
 <br>
 
 ## Gathering your materials
