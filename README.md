@@ -31,5 +31,4 @@ All resources are openly licensed and linked below. Future plans include the inc
 
 # Licensing
 
-This hardware is licensed under [INSERT LICENSE HERE]
-
+This hardware is licensed under [GNU General Public License v3.0](LICENSE).
