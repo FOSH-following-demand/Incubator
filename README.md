@@ -31,5 +31,5 @@ All resources are openly licensed and linked below. Future plans include the inc
 
 # Licensing
 
-This hardware is licensed under [INSERT LICENSE HERE]
-
+Software released under [MIT License](https://opensource.org/licenses/MIT) //
+Hardware released under [CERN Open Hardware License v1.2](https://ohwr.org/cern_ohl_s_v2.txt)
