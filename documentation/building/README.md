@@ -6,7 +6,7 @@ The primary use case is microbiology. It is essential for many protocols to have
 
 To build the device you will need to undertake some basic soldering and load software onto an Arduino Uno microcontroller but you do not need to have prior experience as there are many tutorials and guides online. This build could be completed by one person in less than a day with all materials and facilities available.
 
-If you have questions you can contact [@LabMboa](https://twitter.com/labmboa?lang=en) on Twitter or [INSERT EMAIL]
+If you have questions you can contact [@LabMboa](https://twitter.com/labmboa?lang=en) on Twitter or via email mboalab@gmail.com
 
 <img src="https://github.com/FOSH-following-demand/Incubator/blob/master/documentation/images/electronics_enclosure.jpg" width="33%"/> <img src="https://github.com/FOSH-following-demand/Incubator/blob/master/documentation/images/incubator_team.jpg" width="33%"/> <img src="https://github.com/FOSH-following-demand/Incubator/blob/master/documentation/images/closed_incubator_frontview.jpg" width="33%"/> 
 <br>
