@@ -22,27 +22,25 @@ The list of components and tools required can be found in the [Bill of Materials
 
 ### Assembling the electronics
 1.	Gather all necessary equipment, electronics and sensors listed in the [BOM](https://github.com/FOSH-following-demand/Incubator/blob/88bb84b1b9b74473d8da1b99ba0d825d767e2a87/hardware/BOM/BOM.md), keep your soldering kit and Digital multimeter ready to check connections and normal operation after soldering. 
-2.	Using a breadboard, Carefully connect all the sensors and other modules to the Arduino Uno microprocessor following the equipment’s [electronic circuit diagrams](https://github.com/FOSH-following-demand/Incubator/blob/88bb84b1b9b74473d8da1b99ba0d825d767e2a87/hardware/electronics/incubator_bb.jpg). Most connections are made through jumpers, relay module, light bulb and power supply module are connected with standard IEC Electrical power cables.
-3.	Using a multimeter make sure all connections are ok and that the current flows normally.
-4.	Connect the Arduino UNO board to a computer with the latest version of Arduino IDE installed using a USB-Arduino Uno cable.
-5.	Open the [Incubator.ino](https://github.com/FOSH-following-demand/Incubator/blob/88bb84b1b9b74473d8da1b99ba0d825d767e2a87/software/Incubator.ino) software and click on verify to make sure that the entire necessary libraries are installed.
-6.	Select the right port and Upload the program to the board.
-7.	Turn on the On/Off button and make sure the incandescent bulb comes on and all electronic parts work normally. 
+2.	Using jumpers and dupont wires, Carefully connect all the sensors and other modules to the Arduino Uno Rev.3 microprocessor and to the breadboard following the equipment’s [electronic circuit diagrams](https://github.com/FOSH-following-demand/Incubator/blob/88bb84b1b9b74473d8da1b99ba0d825d767e2a87/hardware/electronics/incubator_bb.jpg). Use a standard IEC 1.5mm Electrical cable to connect the relay module, light bulb and power supply module.
+3.	Using a digital multimeter, check all connections and the normal flows of current in the whole electric circuit.
 
-### Constructing the electronics enclosure
-8.	Use the 2D CAD files: [Incubator_Enclosure](https://github.com/FOSH-following-demand/Incubator/blob/88bb84b1b9b74473d8da1b99ba0d825d767e2a87/hardware/enclosure/Incubator_Enclosure_MboaLab.pdf), to laser-cut plywood or acrylic to make the electronic enclosure of the incubator. 4-5mm colored acrylic is recommended. Use acrylic glue to assemble cut pieces and first mount the base of the box. 
+### Uploading the software to the arduino board
+4.	Connect the Arduino UNO board to a computer with the latest version of [Arduino IDE](https://www.arduino.cc/en/software) installed using a USB 2.0 A to B Cable.
+5.	Open the [Incubator.ino](https://github.com/FOSH-following-demand/Incubator/blob/88bb84b1b9b74473d8da1b99ba0d825d767e2a87/software/Incubator.ino) software and on the software interface, click on **verify** to make sure all necessary libraries are installed. Wait until the message **Done compiling** and specific information about the program appears as shown on the picture <img src="https://github.com/FOSH-following-demand/Incubator/blob/master/documentation/images/Program%20Upload1.png" width="33%"/> .   
+6.	Select the right port and on the software interface click on **upload** to upload the program to the board. Wait until the message **Done uploading** is displayed. 
+
+### Constructing the electronics enclosure and Integrating the electronics
+8.	Use the 2D CAD file: [Incubator_Enclosure](https://github.com/FOSH-following-demand/Incubator/blob/88bb84b1b9b74473d8da1b99ba0d825d767e2a87/hardware/enclosure/Incubator_Enclosure_MboaLab.pdf), to laser-cut plywood or acrylic to make the electronic enclosure of the incubator. 5mm colored acrylic or 4mm plywood is recommended. Use acrylic glue or Wood glue to assemble cut pieces and first mount the base of the box. 
 9.	At this point, place the base above the cooler box cover at the location you want the electronic box to fit (center position preferred); 
-10.	Use an electric drill to make a hole at the center and bottom of the box, crossing the acrylic and the entire depth of the cooler box cover. 
-11.	Send light bulb cable through the created hole and carefully place electronic parts inside the box; Double side tape can be used to fix elements in the box
-12.	Place the bulb holder below the cooler box cover and place an incandescent bulb. 
-13.	Turn on the circuit and check if the light bulb is switched on and other sensors are operational
-14.	Shut down and solder where applicable.
-
-### Integrating the electronics with the cooler box
-15.	Carefully fix the electronic control box on top of the cooler box lid using double-sided tape.
-16.	Make sure to adjust the distance of the cable, keeping a distance of 3cm between the light bulb and the bottom of the cooler box cover. 
-17.	Use the electric drill to make another hole on the side of the main body of the cooler box for the temperature sensor cable, and place the sensor inside the cooler box.
-18.	After checking that everything is still operational, place the acrylic cover on top of the electronic box (don’t use acrylic glue to seal the box) the cover should remain easily removable for maintenance.
+10.	Use an electric drill to make a hole (1cm) crossing the acrylic and the entire depth of the cooler box cover.
+11.	Drill another hole (1cm) on the side, just below the handle of the cooler box.
+12.	Send the temperature sensor inside the cooler box through the created hole on the side. 
+13.	Send light bulb cable through the created hole on the cooler box cover and carefully place all electronic parts inside the electronics enclosure.
+15.	Use double side tape to fix the electronic enclosure to the cooler box cover.
+16.	Screw the bulb holder on the donwnside of the cooler box cover and place an incandescent bulb. 
+17.	Turn on the circuit and check if the light bulb is switched on and other sensors are operational.
+18.	Place the cover of the electronic box (don’t use acrylic glue or Wood glue to seal the box) the cover should remain easily removable for maintenance.
 
 ### Checking that it works
 19.	Use a separate thermometer to verify that the temperature reaches and is maintained at the correct set point.
