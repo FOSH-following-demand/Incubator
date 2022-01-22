@@ -43,6 +43,6 @@ The list of components and tools required can be found in the [Bill of Materials
 18.	Place the cover of the electronic box (don’t use acrylic glue or Wood glue to seal the box) the cover should remain easily removable for maintenance.
 
 ### Checking that it works
-19.	Use a separate thermometer to verify that the temperature reaches and is maintained at the correct set point.
-20.	Check and follow [Using](https://github.com/FOSH-following-demand/Incubator/blob/e79139635490b86b92911df16381e2448330a7f6/documentation/using/using.md) for Operation Manual to ensure normal use and behavior of the equipment.
+18.	Use a separate thermometer to verify that the temperature reaches and is maintained at the correct set point.
+19.	Check and follow [Using](https://github.com/FOSH-following-demand/Incubator/blob/e79139635490b86b92911df16381e2448330a7f6/documentation/using/using.md) for Operation Manual to ensure normal use and behavior of the equipment.
 
