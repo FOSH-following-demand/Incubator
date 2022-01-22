@@ -31,18 +31,18 @@ The list of components and tools required can be found in the [Bill of Materials
 6.	Select the right port and on the software interface click on **upload** to upload the program to the board. Wait until the message **Done uploading** is displayed. 
 
 ### Constructing the electronics enclosure and Integrating the electronics
-8.	Use the 2D CAD file: [Incubator_Enclosure](https://github.com/FOSH-following-demand/Incubator/blob/88bb84b1b9b74473d8da1b99ba0d825d767e2a87/hardware/enclosure/Incubator_Enclosure_MboaLab.pdf), to laser-cut plywood or acrylic to make the electronic enclosure of the incubator. 5mm colored acrylic or 4mm plywood is recommended. Use acrylic glue or Wood glue to assemble cut pieces and first mount the base of the box. 
-9.	At this point, place the base above the cooler box cover at the location you want the electronic box to fit (center position preferred); 
-10.	Use an electric drill to make a hole (1cm) crossing the acrylic and the entire depth of the cooler box cover.
-11.	Drill another hole (1cm) on the side, just below the handle of the cooler box.
-12.	Send the temperature sensor inside the cooler box through the created hole on the side. 
-13.	Send light bulb cable through the created hole on the cooler box cover and carefully place all electronic parts inside the electronics enclosure.
-15.	Use double side tape to fix the electronic enclosure to the cooler box cover.
-16.	Screw the bulb holder on the donwnside of the cooler box cover and place an incandescent bulb. 
-17.	Turn on the circuit and check if the light bulb is switched on and other sensors are operational.
-18.	Place the cover of the electronic box (don’t use acrylic glue or Wood glue to seal the box) the cover should remain easily removable for maintenance.
+7.	Use the 2D CAD file: [Incubator_Enclosure](https://github.com/FOSH-following-demand/Incubator/blob/88bb84b1b9b74473d8da1b99ba0d825d767e2a87/hardware/enclosure/Incubator_Enclosure_MboaLab.pdf), to laser-cut plywood or acrylic to make the electronic enclosure of the incubator. 5mm colored acrylic or 4mm plywood is recommended. Use acrylic glue or Wood glue to assemble cut pieces and first mount the base of the box. 
+8.	At this point, place the base above the cooler box cover at the location you want the electronic box to fit (center position preferred); 
+9.	Use an electric drill to make a hole (1cm) crossing the acrylic and the entire depth of the cooler box cover.
+10.	Drill another hole (1cm) on the side, just below the handle of the cooler box.
+11.	Send the temperature sensor inside the cooler box through the created hole on the side. 
+12.	Send light bulb cable through the created hole on the cooler box cover and carefully place all electronic parts inside the electronics enclosure.
+13.	Use double side tape to fix the electronic enclosure to the cooler box cover.
+14.	Screw the bulb holder on the donwnside of the cooler box cover and place an incandescent bulb. 
+15.	Turn on the circuit and check if the light bulb is switched on and other sensors are operational.
+16.	Place the cover of the electronic box (don’t use acrylic glue or Wood glue to seal the box) the cover should remain easily removable for maintenance.
 
 ### Checking that it works
-18.	Use a separate thermometer to verify that the temperature reaches and is maintained at the correct set point.
-19.	Check and follow [Using](https://github.com/FOSH-following-demand/Incubator/blob/e79139635490b86b92911df16381e2448330a7f6/documentation/using/using.md) for Operation Manual to ensure normal use and behavior of the equipment.
+17.	Use a separate thermometer to verify that the temperature reaches and is maintained at the correct set point.
+18.	Check and follow [Using](https://github.com/FOSH-following-demand/Incubator/blob/e79139635490b86b92911df16381e2448330a7f6/documentation/using/using.md) for Operation Manual to ensure normal use and behavior of the equipment.
 
