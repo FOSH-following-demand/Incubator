@@ -81,7 +81,7 @@ contributors:                              # recommended
     affiliation: Kumasi Hive                  # text
 
 
-#image: [value]                             # recommended | absolute or relative path
+image: https://github.com/FOSH-following-demand/Incubator/raw/master/documentation/images/closed_incubator_frontview.jpg
 
 version: 1.0                         # text
 
