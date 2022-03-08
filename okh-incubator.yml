@@ -81,7 +81,7 @@ contributors:                              # recommended
     affiliation: Kumasi Hive                  # text
 
 
-#image: [value]                             # recommended | absolute or relative path
+image: https://github.com/FOSH-following-demand/Incubator/raw/master/documentation/images/closed_incubator_frontview.jpg
 
 version: 1.0                         # text
 
@@ -123,9 +123,9 @@ license:                                   # At least one license is required | 
   #software: [value]                        # recommended where software is used | The license under which the software is released
 
 licensor:
-name: Thomas Mboa                            # text
-affiliation: MboaLab                     # text
-email: thomasmboa@gmail.com                           # email address
+  name: Thomas Mboa                            # text
+  affiliation: MboaLab                     # text
+  email: thomasmboa@gmail.com                           # email address
 
 # Documentation
 
@@ -145,7 +145,7 @@ bom: https://github.com/FOSH-following-demand/Incubator/blob/master/hardware/BOM
 
 tool-list: https://github.com/FOSH-following-demand/Incubator/blob/master/hardware/BOM/BOM.md#--tools                        # recommended | absolute or relative path | Direct the maker to a list of tools required to make the thing
 
-making-instructions:                      # recommended
+#making-instructions:                      # recommended
 #  - path: https://github.com/FOSH-following-demand/Incubator/tree/master/documentation/building                       # Absolute or relative path
 #    title: [value]                        # text
 

@@ -5,7 +5,7 @@ MboaLab in Cameroon were awarded a $750 grant by the Build Free and Open Science
 **Why an incubator?**
 Most biology labs in Cameroon and elsewhere in resource-constrained contexts are under-equipped due to the high cost of lab equipment and it is essential for many protocols including open enzyme manufacturing to have optimal growth temperature for important microrganisms such as _Escherichia coli_ bacteria. 
 
-**Why opn hardware?**
+**Why open hardware?**
 We believe that DIY and Open Science Hardware can facilitate access to low-cost and high-quality equipment for biology labs in Cameroon, Ghana and beyond. 
 
 All resources are openly licensed and linked below. Future plans include the inclusion of orbital shaking which increases aeration of cultures and therefore the yield of micro-organisms and their products like proteins.
@@ -31,4 +31,5 @@ All resources are openly licensed and linked below. Future plans include the inc
 
 # Licensing
 
-This hardware is licensed under [GNU General Public License v3.0](LICENSE).
+Software released under [MIT License](https://opensource.org/licenses/MIT) //
+Hardware released under [CERN Open Hardware License v1.2](https://ohwr.org/cern_ohl_s_v2.txt)
